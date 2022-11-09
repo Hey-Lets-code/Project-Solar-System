@@ -5,9 +5,11 @@ class Title extends React.Component {
   render() {
     const { headline } = this.props;
     return (
-      <h2>
-        { headline }
-      </h2>
+      <div className="div-border-planets">
+        <h2 className="border-planets">
+          { headline }
+        </h2>
+      </div>
     );
   }
 }

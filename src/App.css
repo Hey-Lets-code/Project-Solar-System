@@ -1,3 +1,190 @@
 .App {
   text-align: center;
 }
+
+#main {
+  color: whitesmoke;
+  background-image: url(./images/background.png);
+  background-size: cover;
+}
+
+#header-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+	box-sizing: border-box;
+	padding-top: 1;
+	padding-bottom: 1;
+	position: relative;
+	/* background-color: rgb(224, 231, 239); */
+}
+
+.header-h1 {
+  /* border: 1px solid; */
+  /* background-color: black; */
+  box-sizing: border-box;
+  letter-spacing: -0.04em;
+  font-size: 3.50em;
+  margin-bottom: 0.5;
+  text-align: center;
+  font-weight: 600;
+  width: 100%;
+}
+.div-border-planets{
+  display: flex;
+  align-items:center;
+  justify-content: center;
+  width: 100%;
+}
+
+.border-planets {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 700px;
+  height: 50px;
+  border: 1px solid;
+  border-radius: 10px 10px;
+  text-decoration: solid;
+  font-weight:600;
+}
+
+/* .pai-felca { */
+  /* display: flex; */
+  /* flex-direction: row; */
+/* } */
+
+/* .div-of-all-planets{ */
+  /* display: flex; */
+  /* flex-direction: row-reverse; */
+/* } */
+
+/* .div-of-planets-names { */
+  /* display: flex; */
+  /* flex-direction: row-reverse; */
+  /* align-items:center; */
+  /* justify-content: center; */
+/* } */
+
+/* .span-of-planets-names {} */
+
+/* .div-of-planets-img{ */
+  /* display: flex; */
+/* } */
+
+/* .individual-img{ */
+  /* width: 100px; */
+/* } */
+
+.individual-planet-card {
+  display: flex;
+  flex-direction: column-reverse;
+
+}
+
+.div-of-planet-name {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+}
+
+.span-planet-name{
+  display: flex;
+  justify-content: center;
+}
+
+.div-of-all-imgs {
+  display: flex;
+  width: 100%;
+  /* align-items: center; */
+  /* align-content: center; */
+  /* justify-content: center; */
+  flex-direction: row;
+}
+
+.individual-planet-img {
+  display: flex;
+  width: 100%;
+}
+
+.all-planets-cards {
+  display: flex;
+  align-items: center;
+}
+
+.div-of-mission-card{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-content: center;
+  justify-content: center;
+}
+
+.h4-of-mission-name{
+  display: flex;
+  width: 100%;
+  border: 1px solid;
+  justify-content: stretch;
+}
+
+.mission-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  border: 1px solid;
+  align-items: center;
+  /* justify-content: center; */
+  width: 30%;
+}
+
+/* .all-planets-cards :nth-child(1)  { */
+  /* border: 2px solid whitesmoke; */
+  /* width: 50px; */
+/* } */
+
+.individual-planet-img-Mercúrio {
+  /* border: 2px solid whitesmoke; */
+  width: 50px;
+}
+
+.individual-planet-img-Vênus  {
+  display: flex;
+  /* border: 2px solid whitesmoke; */
+  width: 70px;
+}
+
+.individual-planet-img-Terra  {
+  display: flex;
+  /* border: 2px solid whitesmoke; */
+  width: 100px;
+}
+
+.individual-planet-img-Marte {
+  display: flex;
+  /* border: 2px solid whitesmoke; */
+  width: 100px;
+}
+
+.individual-planet-img-Júpiter {
+  display: flex;
+  /* border: 2px solid whitesmoke; */
+  width: 100px;
+}
+
+.individual-planet-img-Saturno  {
+  display: flex;
+  /* border: 2px solid whitesmoke; */
+  width: 100px;
+}
+
+.individual-planet-img-Urano  {
+  display: flex;
+  /* border: 2px solid whitesmoke; */
+  width: 100px;
+}
+
+.individual-planet-img-Netuno {
+  display: flex;
+  /* border: 2px solid whitesmoke; */
+  width: 100px;
+}
