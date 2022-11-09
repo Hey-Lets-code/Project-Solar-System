@@ -18,7 +18,10 @@ __Desenvolvimento de um modelo do sistema solar, nele é possível:__
 
 1. Clone o repositório
 
-* Use o comando: ```git clone git@github.com:Hey-Lets-code/Project-Solar-System.git ```
+* Use o comando:
+```
+git clone git@github.com:Hey-Lets-code/Project-Solar-System.git 
+```
 * Entre na pasta do repositório que você acabou de clonar: 
 ```
 cd Project-Solar-System
