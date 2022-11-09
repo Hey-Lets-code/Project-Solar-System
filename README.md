@@ -1,11 +1,11 @@
 # Projeto do Sistema Solar
 
+>Projeto do módulo de front-end da trybe
+
 ## Descrição do Projeto
 __Desenvolvimento de um modelo do sistema solar, nele é possível:__
 * Visualizar todos os planetas do sistema solar renderizados na tela;
 * Visualizar todas as cartas com informações sobre missóes espaciais;
-
->Projeto do módulo de front-end da trybe
 
 ## Tecnologias utilizadas para o desenvolvimento
 * JSX React;
