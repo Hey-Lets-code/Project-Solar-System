@@ -2,8 +2,8 @@
 
 ## Descrição do Projeto
 __Desenvolvimento de um modelo do sistema solar, nele é possível:__
->Visualizar todos os planetas do sistema solar renderizados na tela;
->Visualizar todas as cartas com informações sobre missóes espaciais;
+* Visualizar todos os planetas do sistema solar renderizados na tela;
+* Visualizar todas as cartas com informações sobre missóes espaciais;
 
 ## Tecnologias utilizadas para o desenvolvimento
 * JSX React;
